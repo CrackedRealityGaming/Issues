@@ -65,4 +65,4 @@ Try to separate your description into three different sections, if possible:
 
 'Weeklies' are issue tracker milestones created by Overcast Network staff each weekend. Issues slated to be resolved on any given weekend are assigned to that weekend's relative milestone, so that progress on the weekend's issues can be easily visualized.
 
-**CrackedRealityGaming Milestones can he found [here]https://github.com/CrackedRealityGaming/Issues/issues/milestones).**
+**CrackedRealityGaming Milestones can he found [here] https://github.com/CrackedRealityGaming/Issues/issues/milestones).**
